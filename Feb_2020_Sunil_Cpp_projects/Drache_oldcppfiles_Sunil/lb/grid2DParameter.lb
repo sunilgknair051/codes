@@ -1,0 +1,5 @@
+// basic parameter
+// M. Drache, 14.12.18
+velocitySet:	D2Q9
+baseDimension:	3
+fluidDensity: 	1.0

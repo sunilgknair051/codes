@@ -1,0 +1,7 @@
+// basic parameter
+// M. Drache, 16.12.18
+velocitySet:	D3Q19
+dimensionX:	4
+dimensionY:	3
+dimensionZ:	2
+bounceBackZ: modelDJ2018
