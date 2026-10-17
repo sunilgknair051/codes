@@ -1,0 +1,6 @@
+﻿  core2d.cpp
+C:\Users\Admin\Desktop\2020_running cpps\confirmed running_MD_2D\Project2\core2d.h(108,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\2020_running cpps\confirmed running_MD_2D\Project2\core2d.h(109,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\2020_running cpps\confirmed running_MD_2D\Project2\core2d.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\2020_running cpps\confirmed running_MD_2D\Project2\core2d.cpp(195,21): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> C:\Users\Admin\Desktop\2020_running cpps\confirmed running_MD_2D\Project2\Debug\Project2.exe
