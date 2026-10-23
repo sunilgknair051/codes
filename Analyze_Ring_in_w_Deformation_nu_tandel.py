@@ -139,7 +139,7 @@ def Analyze_Pops(filename) :
     
     TijS = np.zeros((3,3), dtype = complex); norm = 0;
     Fx = 0; Fy = 0; Fz = 0; Fx_Sph_On_Wall = 0; Txy_Sph_On_Wall = 0; 
-   
+    print('ACont',ACont)
                 
     for x in range(nx):
         for y in range(ny):
@@ -309,7 +309,7 @@ noslip = [0,2,1 ,4, 3,6, 5,8, 7,10, 9,12,11,14,13,16,15,18,17];
 wi = [zW, aW,aW,aW,aW,aW,aW, dW,dW,dW,dW,dW,dW,dW,dW,dW,dW,dW,dW];
 
 #header_filename = open('header_filename.txt', 'r').read();
-header_filename = 'test002';
+header_filename = 'test001';
 n_sims_max = 65;
 gap_display = 1;
  
